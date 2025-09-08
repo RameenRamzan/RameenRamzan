@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **"I'm diving into TypeScript at GIAIC, learning to level up my JavaScript skills with precision and ease. Excited to see where this journey takes me in the world of coding!"**
+- I’m exploring new technologies and sharpening my coding skills as a computer science student. Excited to tackle real-world projects and see where this journey in tech takes me!**
 
 - 📫 How to reach me **rameenramzan65@gmail.com**
 
