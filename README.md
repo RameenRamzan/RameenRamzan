@@ -11,7 +11,7 @@ I believe in learning by doing — exploring step by step and improving through 
 
 ## 🚀 Currently
 - Learning core Computer Science fundamentals
-- Exploring software development and problem-solving
+- Exploring emerging technologies
 - Building small projects to grow consistently
 
 ---
