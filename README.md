@@ -18,6 +18,7 @@ I believe in learning by doing — exploring step by step and improving through 
 
 ## 📫 Contact
 - Email: rameenramzan65@gmail.com
+- LinkedIn: www.linkedin.com/in/rameen-ramzan
 
 ---
 
